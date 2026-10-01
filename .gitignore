@@ -1,2 +1,12 @@
 .env
 target/
+# Dependencies
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+
+# Environment files
+.env
+backend/.env
+frontend/.env
